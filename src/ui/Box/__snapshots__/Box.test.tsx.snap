@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UI Box Component match snapshot 1`] = `
+<div>
+  <div
+    class="sprinkles_padding_small_mobile__1vna7gb1r sprinkles_display_flex_mobile__1vna7gb3 sprinkles_flexDirection_row_mobile__1vna7gbf reset_base__4op0mk0"
+  />
+</div>
+`;
