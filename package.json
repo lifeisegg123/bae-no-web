@@ -18,7 +18,7 @@
     "@vanilla-extract/recipes": "^0.2.4",
     "@vanilla-extract/sprinkles": "^1.4.0",
     "clsx": "^1.1.1",
-    "ky": "^0.30.0",
+    "ky": "^0.31.0",
     "ky-universal": "^0.10.1",
     "next": "^12.1.6",
     "react": "^18.1.0",
